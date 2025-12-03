@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="./App3.png" width="400" alt="Response Formatting"/>
+        <img src="./App 3.png" width="400" alt="Response Formatting"/>
         <br/>
         <b>Formatted AI Responses</b>
       </td>
@@ -490,3 +490,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Made with ❤️ by [Ravi2ie](https://github.com/Ravi2ie) for SIH 2024**
 
 ⭐ If you find this project helpful, please give it a star! ⭐
+
