@@ -35,7 +35,7 @@
       <td align="center">
         <img src="./App4.png" width="400" alt="Dark Mode Theme"/>
         <br/>
-        <b>Edit query and regerate the response</b>
+        <b>Edit query and regenerate the response</b>
       </td>
     </tr>
   </table>
@@ -490,5 +490,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Made with ❤️ by [Ravi2ie](https://github.com/Ravi2ie) for SIH 2024**
 
 ⭐ If you find this project helpful, please give it a star! ⭐
+
 
 
